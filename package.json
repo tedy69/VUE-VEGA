@@ -8,11 +8,24 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "echarts": "^4.8.0",
+    "ve-charts": "^0.8.8",
+    "vega": "^5.13.0",
+    "vue": "^2.6.11",
+    "vue-grid-layout": "^2.3.7",
+    "vue-router": "^3.3.4",
+    "vue-smart-widget": "^0.5.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-service": "~4.4.0",
-    "vue-template-compiler": "^2.6.11"
+    "element-ui": "^2.13.0",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "postcss-import": "^12.0.1",
+    "postcss-url": "^8.0.0",
+    "v-tooltip": "^2.0.2",
+    "vue-template-compiler": "^2.6.11",
+    "vuex": "^3.0.1"
   }
 }
