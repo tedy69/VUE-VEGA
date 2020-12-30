@@ -10,7 +10,7 @@
     "core-js": "^3.6.5",
     "echarts": "^4.8.0",
     "ve-charts": "^0.8.8",
-    "vega": "^5.13.0",
+    "vega": "^5.17.3",
     "vue": "^2.6.11",
     "vue-grid-layout": "^2.3.7",
     "vue-router": "^3.3.4",
